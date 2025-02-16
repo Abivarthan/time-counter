@@ -27,7 +27,7 @@ Start.addEventListener("click",()=>{
                 mins=0
             }
             updateDisplay()
-        },20)
+        },10)
     }
 })
 Stop.addEventListener("click",()=>{
